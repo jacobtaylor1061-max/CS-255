@@ -1,7 +1,6 @@
 # CS-255
 	
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-What did you do particularly well?
   
 # The DriverPass project was a solution presented to us to help curb the rising number of DMV driving test failures by providing learners with the tools they need to pass. The client, Liam, owner of DriverPass,  wanted the DriverPass system to be an online platform that would allow users to access study materials, track their progress, and schedule driving lessons with in-car instructors. Further, Liam wanted the system to be updated from the DMV database so that his users would have access to the most recent study materials. On the administrative side of things, Liam requested that DriverPass maintain security over student data, allow certain driving instruction packages to be added or removed depending on driver availability, and allow him to track every appointment within the system. 
 
